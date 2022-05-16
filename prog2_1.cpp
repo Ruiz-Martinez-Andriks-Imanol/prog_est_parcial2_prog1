@@ -1,23 +1,23 @@
-/* Autor: Andriks Imanol Ruiz M醨tinez, Realizado: 17/03/2022
+/* Autor: Andriks Imanol Ruiz Mart铆nez, Realizado: 17/03/2022
 Escuela: Universidad del Valle de Mexico Campus Villahermosa 
-Materia: Programaci髇 Estructrada
+Materia: Programaci贸n Estructrada
 Ciclo: 01/2022
 
-Este es un programa de ciclos y condicionales en Lenguaje C de la materia de Programaci髇 Estructurada
+Este es un programa de ciclos y condicionales en Lenguaje C de la materia de Programaci贸n Estructurada
 Muestra el uso de:
   
     -Variables flotantes y enteras
     -printf para mostrar mensajes y variables
 	-scanf
-	-El uso de include para las librer韆s
-    -Uso de la librer韆 math.h
-    -Arreglo por m閠odo de la burbuja
+	-El uso de include para las librer铆as
+    -Uso de la librer铆a math.h
+    -Arreglo por m茅todo de la burbuja
     -Ciclos
     -Contador
     -Condicionales
     -Arreglos
     -#define MAX  para definir cierta cantidad para el arreglo
-    -Comentarios para la documentaci髇 interna del programa
+    -Comentarios para la documentaci贸n interna del programa
 */
 #include<stdio.h>
 // Definiciones
@@ -25,7 +25,7 @@ Muestra el uso de:
 #include<math.h>
 //const int TAMANO=50;
 int main(){
-	//Declaraci髇 de variables
+	//Declaraci贸n de variables
 	//int edades[10];
 	int edades[MAX], aux, centro;
 	float media, suma=0, var, desviacion, mediana;
