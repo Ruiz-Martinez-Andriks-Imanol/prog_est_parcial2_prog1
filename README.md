@@ -1,4 +1,4 @@
-# prog_est_prog2.1
+# prog_est_parcial2_prog1
 <p>Autor: Andriks Imanol Ruiz Mártinez, Fecha: 17/03/2022 <br>
 Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
 Materia: Programación Estructrada <br>
